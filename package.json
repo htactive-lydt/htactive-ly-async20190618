@@ -40,7 +40,7 @@
     "is-windows": "^1.0.2",
     "isobject": "^2.1.0",
     "isarray": "^1.0.0",
-    "kind-of": "^3.2.2",
+    "kind-of": "^6.0.3",
     "lodash": "^4.17.11",
     "map-cache": "^0.2.2",
     "map-visit": "^1.0.0",
